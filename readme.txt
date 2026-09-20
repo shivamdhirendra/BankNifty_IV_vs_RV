@@ -1,5 +1,6 @@
 Using Bank Nifty option prices to measure implied volatility and testing whether that implied volatility can predict future realised volatility of the Bank Nifty.
 
+Time - 1st January 2021 to 31st December 2025 
 
 DATASET                        SOURCE    PURPOSE
 1) Bank Nifty daily index      -> NSE    -> Spot price + return
