@@ -1,0 +1,4 @@
+Model,Observations,IV Coefficient,IV HAC p-value,R-squared
+Baseline: 20-day RV,1135,0.238049954,8.79E-07,0.2571643
+Augmented: 20-day RV + Current RV,1115,0.134828493,0.004009815,0.305741126
+Robustness: 10-day RV,1141,0.238595542,4.13E-10,0.202058451

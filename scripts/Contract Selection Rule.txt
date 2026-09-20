@@ -1,0 +1,17 @@
+Selection rule
+
+For each day:
+
+-> Keep options with valid Close
+-> Keep 20–40 days to expiry
+-> Find the strike closest to that day's actual Bank Nifty close
+-> If multiple contracts have the same/very similar ATM strike, choose expiry closest to 30 days
+-> Use OI only as a tie-breaker, because it is frequently missing
+
+We are not going to arbitrarily pick a fixed strike or fixed expiry.
+
+
+
+
+2024-03-02 was a special Saturday live trading session at NSE, including the Equity Derivatives segment, for the disaster-recovery-site exercise.
+This is not "bad data." It's a special trading-session mismatch -> document it in the methodology.
