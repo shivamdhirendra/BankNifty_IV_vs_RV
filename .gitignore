@@ -1,0 +1,15 @@
+# Raw market data
+data/raw/
+
+# External source data
+data/external/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
